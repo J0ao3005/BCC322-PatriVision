@@ -1,0 +1,11 @@
+
+*.o
+*.so
+*.dll
+*.exe
+*.user
+Makefile*
+.qmake.stash
+moc_*
+ui_*
+tst_guitest.moc
