@@ -1,0 +1,8 @@
+PROJECT_NAME           = "PatriVision"
+PROJECT_NUMBER         = "Sprint 1 (v1.0)"
+OUTPUT_DIRECTORY       = docs
+EXTRACT_ALL            = YES
+RECURSIVE              = YES
+INPUT                  = include src tests
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
