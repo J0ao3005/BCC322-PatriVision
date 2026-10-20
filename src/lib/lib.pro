@@ -11,3 +11,5 @@ HEADERS += ../../include/IVistoria.h \
 
 SOURCES += VistoriaImpl.cpp \
            PatriVisionServiceImpl.cpp
+
+QMAKE_LFLAGS += -Wl,--export-all-symbols
